@@ -64,3 +64,5 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+#getting started about the app
+this ia crowding sourcing app to raise billions of dollars in the future
